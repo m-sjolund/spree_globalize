@@ -1,0 +1,6 @@
+fi:
+  spree:
+    globalize:
+      locales_displayed_on_translation_forms: Käännöslomakkeissa näkyvillä olevat kielet
+      no_translations_for_criteria: Annetuille ehdoille ei löydy käännöksiä
+      store_translations: Kielikäännökset
